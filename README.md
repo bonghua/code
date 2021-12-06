@@ -1,2 +1,2 @@
-# text
-python+sql  爬虫+自动化办公+数据分析
+# code
+python语句运用（爬虫-自动化办公-数据分析）
